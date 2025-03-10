@@ -28,7 +28,7 @@ class Rx extends Bike {
 public class Polymorphism {
     public static void main(String[] args) {
         Solution overloading = new Solution();
-        // Same method name in different forms is called as Polumorphism...
+        // Same method name in different forms is called as Polymorphism...
         System.out.println(overloading.add(1, 2));
         System.out.println(overloading.add(1, 2, 3));
 
